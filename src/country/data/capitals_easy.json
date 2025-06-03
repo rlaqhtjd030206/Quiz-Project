@@ -1,0 +1,193 @@
+[ {
+  "num" : "0",
+  "question" : "인도",
+  "answer" : "뉴델리",
+  "country" : "인도.png",
+  "capital" : "인디아 게이트.png"
+}, {
+  "num" : "1",
+  "question" : "일본",
+  "answer" : "도쿄",
+  "country" : "일본.png",
+  "capital" : "도쿄 타워.png"
+}, {
+  "num" : "2",
+  "question" : "영국",
+  "answer" : "런던",
+  "country" : "영국.png",
+  "capital" : "빅벤.png"
+}, {
+  "num" : "3",
+  "question" : "이탈리아",
+  "answer" : "로마",
+  "country" : "이탈리아.png",
+  "capital" : "콜로세움.png"
+}, {
+  "num" : "4",
+  "question" : "필리핀",
+  "answer" : "마닐라",
+  "country" : "필리핀.png",
+  "capital" : "리잘 공원.png"
+}, {
+  "num" : "5",
+  "question" : "스페인",
+  "answer" : "마드리드",
+  "country" : "스페인.png",
+  "capital" : "로얄 팰리스.png"
+}, {
+  "num" : "6",
+  "question" : "멕시코",
+  "answer" : "멕시코시티",
+  "country" : "멕시코.png",
+  "capital" : "독립 기념탑.png"
+}, {
+  "num" : "7",
+  "question" : "러시아",
+  "answer" : "모스크바",
+  "country" : "러시아.png",
+  "capital" : "성 바실리 대성당.png"
+}, {
+  "num" : "8",
+  "question" : "태국",
+  "answer" : "방콕",
+  "country" : "태국.png",
+  "capital" : "왓 프라깨우.png"
+}, {
+  "num" : "9",
+  "question" : "독일",
+  "answer" : "베를린",
+  "country" : "독일.png",
+  "capital" : "브란덴부르크 문.png"
+}, {
+  "num" : "10",
+  "question" : "중국",
+  "answer" : "베이징",
+  "country" : "중국.png",
+  "capital" : "자금성.png"
+}, {
+  "num" : "11",
+  "question" : "헝가리",
+  "answer" : "부다페스트",
+  "country" : "헝가리.png",
+  "capital" : "헝가리 국회의사당.png"
+}, {
+  "num" : "12",
+  "question" : "아르헨티나",
+  "answer" : "부에노스아이레스",
+  "country" : "아르헨티나.png",
+  "capital" : "오벨리스크.png"
+}, {
+  "num" : "13",
+  "question" : "브라질",
+  "answer" : "브라질리아",
+  "country" : "브라질.png",
+  "capital" : "브라질 대성당.png"
+}, {
+  "num" : "14",
+  "question" : "오스트리아",
+  "answer" : "빈",
+  "country" : "오스트리아.png",
+  "capital" : "쇤브룬 궁전.png"
+}, {
+  "num" : "15",
+  "question" : "대한민국",
+  "answer" : "서울",
+  "country" : "대한민국.png",
+  "capital" : "경복궁.png"
+}, {
+  "num" : "16",
+  "question" : "스웨덴",
+  "answer" : "스톡홀름",
+  "country" : "스웨덴.png",
+  "capital" : "스톡홀름 시청사.png"
+}, {
+  "num" : "17",
+  "question" : "싱가포르",
+  "answer" : "싱가포르",
+  "country" : "싱가포르.png",
+  "capital" : "마리나 베이 샌즈.png"
+}, {
+  "num" : "18",
+  "question" : "그리스",
+  "answer" : "아테네",
+  "country" : "그리스.png",
+  "capital" : "파르테논 신전.png"
+}, {
+  "num" : "19",
+  "question" : "네덜란드",
+  "answer" : "암스테르담",
+  "country" : "네덜란드.png",
+  "capital" : "암스테르담 운하.png"
+}, {
+  "num" : "20",
+  "question" : "이스라엘",
+  "answer" : "예루살렘",
+  "country" : "이스라엘.png",
+  "capital" : "통곡의 벽.png"
+}, {
+  "num" : "21",
+  "question" : "캐나다",
+  "answer" : "오타와",
+  "country" : "캐나다.png",
+  "capital" : "캐나다 국회의사당.png"
+}, {
+  "num" : "22",
+  "question" : "미국",
+  "answer" : "워싱턴 D.C.",
+  "country" : "미국.png",
+  "capital" : "백악관.png"
+}, {
+  "num" : "23",
+  "question" : "인도네시아",
+  "answer" : "자카르타",
+  "country" : "인도네시아.png",
+  "capital" : "모나스탑.png"
+}, {
+  "num" : "24",
+  "question" : "이집트",
+  "answer" : "카이로",
+  "country" : "이집트.png",
+  "capital" : "기자 피라미드.png"
+}, {
+  "num" : "25",
+  "question" : "덴마크",
+  "answer" : "코펜하겐",
+  "country" : "덴마크.png",
+  "capital" : "인어공주 동상.png"
+}, {
+  "num" : "26",
+  "question" : "말레이시아",
+  "answer" : "쿠알라룸푸르",
+  "country" : "말레이시아.png",
+  "capital" : "페트로나스 트윈 타워.png"
+}, {
+  "num" : "27",
+  "question" : "우크라이나",
+  "answer" : "키이우",
+  "country" : "우크라이나.png",
+  "capital" : "독립 광장.png"
+}, {
+  "num" : "28",
+  "question" : "이란",
+  "answer" : "테헤란",
+  "country" : "이란.png",
+  "capital" : "아자디 타워.png"
+}, {
+  "num" : "29",
+  "question" : "프랑스",
+  "answer" : "파리",
+  "country" : "프랑스.png",
+  "capital" : "에펠탑.png"
+}, {
+  "num" : "30",
+  "question" : "체코",
+  "answer" : "프라하",
+  "country" : "체코.png",
+  "capital" : "카를교.png"
+}, {
+  "num" : "31",
+  "question" : "베트남",
+  "answer" : "하노이",
+  "country" : "베트남.png",
+  "capital" : "호찌민 묘소.png"
+} ]

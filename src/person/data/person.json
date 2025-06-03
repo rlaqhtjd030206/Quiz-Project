@@ -1,0 +1,1573 @@
+[ {
+  "image" : "배우_박서준.jpeg",
+  "answers" : [ "Park Seo Joon", "parkseojoon", "박용규" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김태리.jpg",
+  "answers" : [ "Kim Tae Ri", "kimtaeri" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_이병헌.jpg",
+  "answers" : [ "Lee Byung Hun", "leebyunghun" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_전도연.jpg",
+  "answers" : [ "Jeon Do Yeon", "jeondoyeon" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김수현.jpg",
+  "answers" : [ "김수현", "김수현" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_송혜교.jpg",
+  "answers" : [ "송혜교", "송혜교" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_공유.jpg",
+  "answers" : [ "공유", "공유" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_한소희.jpg",
+  "answers" : [ "한소희", "한소희" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_유아인.jpg",
+  "answers" : [ "유아인", "유아인" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_수지.jpg",
+  "answers" : [ "수지", "수지" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_남주혁.jpg",
+  "answers" : [ "남주혁", "남주혁" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_조여정.jpg",
+  "answers" : [ "조여정", "조여정" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_박보검.jpg",
+  "answers" : [ "박보검", "박보검" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_전지현.jpg",
+  "answers" : [ "전지현", "전지현" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_강동원.jpg",
+  "answers" : [ "강동원", "강동원" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김고은.jpg",
+  "answers" : [ "김고은", "김고은" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_하정우.jpg",
+  "answers" : [ "하정우", "하정우" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_문근영.jpg",
+  "answers" : [ "문근영", "문근영" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_마동석.jpg",
+  "answers" : [ "마동석", "마동석" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_김남길.jpg",
+  "answers" : [ "김남길", "김남길" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_신세경.jpg",
+  "answers" : [ "신세경", "신세경" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_이준기.jpg",
+  "answers" : [ "이준기", "이준기" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김지원.jpg",
+  "answers" : [ "김지원", "김지원" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_류준열.jpg",
+  "answers" : [ "류준열", "류준열" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_한지민.jpg",
+  "answers" : [ "한지민", "한지민" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_유연석.jpg",
+  "answers" : [ "유연석", "유연석" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_박은빈.jpg",
+  "answers" : [ "박은빈", "박은빈" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_정해인.jpg",
+  "answers" : [ "정해인", "정해인" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_이나영.jpg",
+  "answers" : [ "이나영", "이나영" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_조정석.jpg",
+  "answers" : [ "조정석", "조정석" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김혜수.jpg",
+  "answers" : [ "김혜수", "김혜수" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_유승호.jpg",
+  "answers" : [ "유승호", "유승호" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_윤여정.jpg",
+  "answers" : [ "윤여정", "윤여정" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_임시완.jpg",
+  "answers" : [ "임시완", "임시완" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_정유미.jpg",
+  "answers" : [ "정유미", "정유미" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_최우식.jpg",
+  "answers" : [ "최우식", "최우식" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_이정재.jpg",
+  "answers" : [ "이정재", "이정재" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김다미.jpg",
+  "answers" : [ "김다미", "김다미" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_송중기.jpg",
+  "answers" : [ "송중기", "송중기" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_정지훈(비).jpg",
+  "answers" : [ "Rain", "Jung Ji Hoon", "정지훈", "jungjihoon" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_배두나.jpg",
+  "answers" : [ "배두나", "배두나" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_손예진.jpg",
+  "answers" : [ "손예진", "손예진" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_도경수(D.O.).jpg",
+  "answers" : [ "D.O.", "도경수", "Do Kyung Soo", "dokyungsoo" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_류승룡.jpg",
+  "answers" : [ "류승룡", "류승룡" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_이성민.jpg",
+  "answers" : [ "이성민", "이성민" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_강하늘.jpg",
+  "answers" : [ "강하늘", "강하늘" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_조인성.jpg",
+  "answers" : [ "조인성", "조인성" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_박신혜.jpg",
+  "answers" : [ "박신혜", "박신혜" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_설경구.jpg",
+  "answers" : [ "설경구", "설경구" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_한효주.jpg",
+  "answers" : [ "한효주", "한효주" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_서강준.jpg",
+  "answers" : [ "서강준", "서강준" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김영광.jpg",
+  "answers" : [ "김영광", "김영광" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_오정세.jpg",
+  "answers" : [ "오정세", "오정세" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김성균.jpg",
+  "answers" : [ "김성균", "김성균" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김재욱.jpg",
+  "answers" : [ "김재욱", "김재욱" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_이민호.jpg",
+  "answers" : [ "이민호", "이민호" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_이홍기.jpg",
+  "answers" : [ "이홍기", "이홍기" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_김지훈.jpg",
+  "answers" : [ "김지훈", "김지훈" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_엄정화.jpg",
+  "answers" : [ "엄정화", "엄정화" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_윤계상.jpg",
+  "answers" : [ "윤계상", "윤계상" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_박지후.jpg",
+  "answers" : [ "박지후", "박지후" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김새론.jpg",
+  "answers" : [ "김새론", "김새론" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김유정.jpg",
+  "answers" : [ "김유정", "김유정" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_남지현.jpg",
+  "answers" : [ "남지현", "남지현" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_고아라.jpg",
+  "answers" : [ "고아라", "고아라" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_이세영.jpg",
+  "answers" : [ "이세영", "이세영" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_이성경.jpg",
+  "answers" : [ "이성경", "이성경" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_채수빈.jpg",
+  "answers" : [ "채수빈", "채수빈" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_신민아.jpg",
+  "answers" : [ "신민아", "신민아" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김소현.jpg",
+  "answers" : [ "김소현", "김소현" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_정소민.jpg",
+  "answers" : [ "정소민", "정소민" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_이선균.jpg",
+  "answers" : [ "이선균", "이선균" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_천우희.jpg",
+  "answers" : [ "천우희", "천우희" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김현주.jpg",
+  "answers" : [ "김현주", "김현주" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김희애.jpg",
+  "answers" : [ "김희애", "김희애" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_송윤아.jpg",
+  "answers" : [ "송윤아", "송윤아" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_박해일.jpg",
+  "answers" : [ "박해일", "박해일" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_조진웅.jpg",
+  "answers" : [ "조진웅", "조진웅" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_유인나.jpg",
+  "answers" : [ "유인나", "유인나" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김민재.jpg",
+  "answers" : [ "김민재", "김민재" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_Timothée Chalamet.jpg",
+  "answers" : [ "Timothée Chalamet", "timothéechalamet" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_Zendaya.jpg",
+  "answers" : [ "Zendaya" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_Florence Pugh.jpg",
+  "answers" : [ "Florence Pugh" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_Emma Stone.jpg",
+  "answers" : [ "Emma Stone" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_Tom Holland.jpg",
+  "answers" : [ "Tom Holland" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_Scarlett Johansson.jpg",
+  "answers" : [ "Scarlett Johansson" ],
+  "category" : "배우",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_Jennifer Lawrence.jpg",
+  "answers" : [ "Jennifer Lawrence" ],
+  "category" : "배우",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_Cillian Murphy.jpg",
+  "answers" : [ "Cillian Murphy" ],
+  "category" : "배우",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_아이유.jpg",
+  "answers" : [ "IU", "이지은", "Lee Ji Eun", "leejieun" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_정국.jpg",
+  "answers" : [ "Jungkook", "전정국", "jeonjeongguk" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_뷔.jpg",
+  "answers" : [ "V", "김태형", "Kim Tae Hyung", "kimtaehyung" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_제니.jpg",
+  "answers" : [ "제니", "제니" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_지민.jpg",
+  "answers" : [ "Jimin", "박지민", "parkjimin" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_로제.jpg",
+  "answers" : [ "로제", "로제" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_지수.jpg",
+  "answers" : [ "지수", "지수" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_RM.jpg",
+  "answers" : [ "RM", "Namjoon", "김남준", "kimnamjoon" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_제이홉.jpg",
+  "answers" : [ "J-Hope", "정호석", "junghoseok" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_슈가.jpg",
+  "answers" : [ "SUGA", "민윤기", "minyoongi" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_태연.jpg",
+  "answers" : [ "태연", "태연" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_백현.jpg",
+  "answers" : [ "백현", "백현" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_수호.jpg",
+  "answers" : [ "수호", "수호" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_찬열.jpg",
+  "answers" : [ "찬열", "찬열" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_웬디.jpg",
+  "answers" : [ "웬디", "웬디" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_조이.jpg",
+  "answers" : [ "조이", "조이" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_슬기.png",
+  "answers" : [ "슬기", "슬기" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_아이린.jpg",
+  "answers" : [ "아이린", "아이린" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_태민.jpg",
+  "answers" : [ "태민", "태민" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_민니.jpg",
+  "answers" : [ "민니", "민니" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_소연.jpg",
+  "answers" : [ "소연", "소연" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_장원영.jpg",
+  "answers" : [ "장원영", "장원영" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_안유진.jpg",
+  "answers" : [ "안유진", "안유진" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_김채원.jpg",
+  "answers" : [ "김채원", "김채원" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_사쿠라.jpg",
+  "answers" : [ "사쿠라", "사쿠라" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_유나.jpg",
+  "answers" : [ "유나", "유나" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_류진.jpg",
+  "answers" : [ "류진", "류진" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_최예나.jpg",
+  "answers" : [ "최예나", "최예나" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_전소미.jpeg",
+  "answers" : [ "전소미", "전소미" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_비비.jpg",
+  "answers" : [ "비비", "비비" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_이하이.jpg",
+  "answers" : [ "이하이", "이하이" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_청하.jpg",
+  "answers" : [ "청하", "청하" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_백예린.jpg",
+  "answers" : [ "백예린", "백예린" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_선미.jpg",
+  "answers" : [ "선미", "선미" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_화사.jpg",
+  "answers" : [ "화사", "화사" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_솔라.jpg",
+  "answers" : [ "솔라", "솔라" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_휘인.jpg",
+  "answers" : [ "휘인", "휘인" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_마크.jpg",
+  "answers" : [ "마크", "마크" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_유겸.jpg",
+  "answers" : [ "유겸", "유겸" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_뱀뱀.jpg",
+  "answers" : [ "뱀뱀", "뱀뱀" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_박재범.jpg",
+  "answers" : [ "박재범", "박재범" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_자이언티.jpg",
+  "answers" : [ "자이언티", "자이언티" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_크러쉬.jpg",
+  "answers" : [ "크러쉬", "크러쉬" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_헤이즈.jpg",
+  "answers" : [ "헤이즈", "헤이즈" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_볼빨간사춘기.jpg",
+  "answers" : [ "볼빨간사춘기", "볼빨간사춘기" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_이무진.jpg",
+  "answers" : [ "이무진", "이무진" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_임영웅.jpg",
+  "answers" : [ "임영웅", "임영웅" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_장범준.jpg",
+  "answers" : [ "장범준", "장범준" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_경서.jpg",
+  "answers" : [ "경서", "경서" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_이승기.jpg",
+  "answers" : [ "이승기", "이승기" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_은하.jpg",
+  "answers" : [ "은하", "은하" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_유주.jpg",
+  "answers" : [ "유주", "유주" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_예린.jpg",
+  "answers" : [ "예린", "예린" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_나은.jpg",
+  "answers" : [ "나은", "나은" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_하니.jpg",
+  "answers" : [ "하니", "하니" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_승관.jpg",
+  "answers" : [ "승관", "승관" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_정은지.jpg",
+  "answers" : [ "정은지", "정은지" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_남우현.jpg",
+  "answers" : [ "남우현", "남우현" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_황민현.jpg",
+  "answers" : [ "황민현", "황민현" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_김재환.jpg",
+  "answers" : [ "김재환", "김재환" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_정세운.jpg",
+  "answers" : [ "정세운", "정세운" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_김우석.jpg",
+  "answers" : [ "김우석", "김우석" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_하성운.jpg",
+  "answers" : [ "하성운", "하성운" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_전소미.jpeg",
+  "answers" : [ "전소미", "소미" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_강다니엘.jpg",
+  "answers" : [ "강다니엘", "강다니엘" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_미미.jpg",
+  "answers" : [ "미미", "미미" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_지호.jpg",
+  "answers" : [ "지호", "지호" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_아린.jpg",
+  "answers" : [ "아린", "아린" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_유정.jpg",
+  "answers" : [ "유정", "유정" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_도연.jpg",
+  "answers" : [ "도연", "도연" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_윤아.jpeg",
+  "answers" : [ "윤아", "윤아" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_태양.jpg",
+  "answers" : [ "태양", "태양" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_지드래곤.jpg",
+  "answers" : [ "지드래곤", "지드래곤" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_산다라박.jpg",
+  "answers" : [ "산다라박", "산다라박" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_CL.jpg",
+  "answers" : [ "CL" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_효린.jpg",
+  "answers" : [ "효린", "효린" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_보아.jpg",
+  "answers" : [ "보아", "보아" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_다현.jpg",
+  "answers" : [ "다현", "다현" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_나연.jpg",
+  "answers" : [ "나연", "나연" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_Taylor Swift.jpg",
+  "answers" : [ "Taylor Swift" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_Ed Sheeran.jpg",
+  "answers" : [ "Ed Sheeran" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_Billie Eilish.jpg",
+  "answers" : [ "Billie Eilish" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_Ariana Grande.jpg",
+  "answers" : [ "Ariana Grande" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_Olivia Rodrigo.jpg",
+  "answers" : [ "Olivia Rodrigo" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_Beyoncé.jpg",
+  "answers" : [ "Beyoncé", "beyoncé" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_Harry Styles.jpg",
+  "answers" : [ "Harry Styles" ],
+  "category" : "가수",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_Justin Bieber.jpg",
+  "answers" : [ "Justin Bieber" ],
+  "category" : "가수",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_Dua Lipa.jpg",
+  "answers" : [ "Dua Lipa" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_The Weeknd.jpg",
+  "answers" : [ "The Weeknd" ],
+  "category" : "가수",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_송혜교.jpg",
+  "answers" : [ "송혜교", "송혜교" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_문근영.jpg",
+  "answers" : [ "문근영", "문근영" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_류준열.jpg",
+  "answers" : [ "류준열", "류준열" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_남우현.jpg",
+  "answers" : [ "남우현", "남우현" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_정국.jpg",
+  "answers" : [ "Jungkook", "전정국", "jeonjeongguk" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_정유미.jpg",
+  "answers" : [ "정유미", "정유미" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_경서.jpg",
+  "answers" : [ "경서", "경서" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_산다라박.jpg",
+  "answers" : [ "산다라박", "산다라박" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_태양.jpg",
+  "answers" : [ "태양", "태양" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_Beyoncé.jpg",
+  "answers" : [ "Beyoncé", "beyoncé" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_이민호.jpg",
+  "answers" : [ "이민호", "이민호" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_마동석.jpg",
+  "answers" : [ "마동석", "마동석" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_조인성.jpg",
+  "answers" : [ "조인성", "조인성" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_Dua Lipa.jpg",
+  "answers" : [ "Dua Lipa" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_제니.jpg",
+  "answers" : [ "제니", "제니" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_뷔.jpg",
+  "answers" : [ "V", "김태형", "Kim Tae Hyung", "kimtaehyung" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_공유.jpg",
+  "answers" : [ "공유", "공유" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_이준기.jpg",
+  "answers" : [ "이준기", "이준기" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_이하이.jpg",
+  "answers" : [ "이하이", "이하이" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_류승룡.jpg",
+  "answers" : [ "류승룡", "류승룡" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_크러쉬.jpg",
+  "answers" : [ "크러쉬", "크러쉬" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_전도연.jpg",
+  "answers" : [ "Jeon Do Yeon", "jeondoyeon" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_윤계상.jpg",
+  "answers" : [ "윤계상", "윤계상" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_이정재.jpg",
+  "answers" : [ "이정재", "이정재" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_윤아.jpeg",
+  "answers" : [ "윤아", "윤아" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_유인나.jpg",
+  "answers" : [ "유인나", "유인나" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_류진.jpg",
+  "answers" : [ "류진", "류진" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_김지훈.jpg",
+  "answers" : [ "김지훈", "김지훈" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_오정세.jpg",
+  "answers" : [ "오정세", "오정세" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_강하늘.jpg",
+  "answers" : [ "강하늘", "강하늘" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_최예나.jpg",
+  "answers" : [ "최예나", "최예나" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_이홍기.jpg",
+  "answers" : [ "이홍기", "이홍기" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_유승호.jpg",
+  "answers" : [ "유승호", "유승호" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김수현.jpg",
+  "answers" : [ "김수현", "김수현" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_Timothée Chalamet.jpg",
+  "answers" : [ "Timothée Chalamet", "timothéechalamet" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김고은.jpg",
+  "answers" : [ "김고은", "김고은" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_Justin Bieber.jpg",
+  "answers" : [ "Justin Bieber" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_뱀뱀.jpg",
+  "answers" : [ "뱀뱀", "뱀뱀" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김희애.jpg",
+  "answers" : [ "김희애", "김희애" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_신민아.jpg",
+  "answers" : [ "신민아", "신민아" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_슬기.png",
+  "answers" : [ "슬기", "슬기" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_고아라.jpg",
+  "answers" : [ "고아라", "고아라" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_정소민.jpg",
+  "answers" : [ "정소민", "정소민" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김남길.jpg",
+  "answers" : [ "김남길", "김남길" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_강다니엘.jpg",
+  "answers" : [ "강다니엘", "강다니엘" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_아이유.jpg",
+  "answers" : [ "IU", "이지은", "Lee Ji Eun", "leejieun" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_윤여정.jpg",
+  "answers" : [ "윤여정", "윤여정" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_Ariana Grande.jpg",
+  "answers" : [ "Ariana Grande" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_아린.jpg",
+  "answers" : [ "아린", "아린" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_박재범.jpg",
+  "answers" : [ "박재범", "박재범" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_효린.jpg",
+  "answers" : [ "효린", "효린" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_송중기.jpg",
+  "answers" : [ "송중기", "송중기" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_박해일.jpg",
+  "answers" : [ "박해일", "박해일" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_장범준.jpg",
+  "answers" : [ "장범준", "장범준" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_CL.jpg",
+  "answers" : [ "CL" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_김혜수.jpg",
+  "answers" : [ "김혜수", "김혜수" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_소연.jpg",
+  "answers" : [ "소연", "소연" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_정해인.jpg",
+  "answers" : [ "정해인", "정해인" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김민재.jpg",
+  "answers" : [ "김민재", "김민재" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_사쿠라.jpg",
+  "answers" : [ "사쿠라", "사쿠라" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "가수_안유진.jpg",
+  "answers" : [ "안유진", "안유진" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_송윤아.jpg",
+  "answers" : [ "송윤아", "송윤아" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_Olivia Rodrigo.jpg",
+  "answers" : [ "Olivia Rodrigo" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_유연석.jpg",
+  "answers" : [ "유연석", "유연석" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_Taylor Swift.jpg",
+  "answers" : [ "Taylor Swift" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_지민.jpg",
+  "answers" : [ "Jimin", "박지민", "parkjimin" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_비비.jpg",
+  "answers" : [ "비비", "비비" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_김다미.jpg",
+  "answers" : [ "김다미", "김다미" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_한지민.jpg",
+  "answers" : [ "한지민", "한지민" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_최우식.jpg",
+  "answers" : [ "최우식", "최우식" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_민니.jpg",
+  "answers" : [ "민니", "민니" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_나연.jpg",
+  "answers" : [ "나연", "나연" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_지드래곤.jpg",
+  "answers" : [ "지드래곤", "지드래곤" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_조이.jpg",
+  "answers" : [ "조이", "조이" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_예린.jpg",
+  "answers" : [ "예린", "예린" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_자이언티.jpg",
+  "answers" : [ "자이언티", "자이언티" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_제이홉.jpg",
+  "answers" : [ "J-Hope", "정호석", "junghoseok" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_이성민.jpg",
+  "answers" : [ "이성민", "이성민" ],
+  "category" : "랜덤",
+  "difficulty" : "초급",
+  "time_limit" : 20
+}, {
+  "image" : "배우_신세경.jpg",
+  "answers" : [ "신세경", "신세경" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_박서준.jpeg",
+  "answers" : [ "Park Seo Joon", "parkseojoon", "박용규" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_이승기.jpg",
+  "answers" : [ "이승기", "이승기" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "가수_김채원.jpg",
+  "answers" : [ "김채원", "김채원" ],
+  "category" : "랜덤",
+  "difficulty" : "중급",
+  "time_limit" : 15
+}, {
+  "image" : "배우_조정석.jpg",
+  "answers" : [ "조정석", "조정석" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "가수_김우석.jpg",
+  "answers" : [ "김우석", "김우석" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+}, {
+  "image" : "배우_김재욱.jpg",
+  "answers" : [ "김재욱", "김재욱" ],
+  "category" : "랜덤",
+  "difficulty" : "고급",
+  "time_limit" : 10
+} ]

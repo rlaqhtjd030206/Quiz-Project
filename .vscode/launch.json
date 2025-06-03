@@ -1,0 +1,10 @@
+{
+  "type": "java",
+  "name": "Run Main",
+  "request": "launch",
+  "mainClass": "initial.Main",
+  "classPaths": [
+    "lib/*",
+    "out"
+  ]
+}

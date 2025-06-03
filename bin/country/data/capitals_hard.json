@@ -1,0 +1,205 @@
+[ {
+  "num" : "0",
+  "question" : "미얀마",
+  "answer" : "네피도",
+  "country" : "미얀마.png",
+  "capital" : "미얀마 국회의사당.png"
+}, {
+  "num" : "1",
+  "question" : "시리아",
+  "answer" : "다마스쿠스",
+  "country" : "시리아.png",
+  "capital" : "우마이야 모스크.png"
+}, {
+  "num" : "2",
+  "question" : "세네갈",
+  "answer" : "다카르",
+  "country" : "세네갈.png",
+  "capital" : "아프리칸 르네상스 기념탑.png"
+}, {
+  "num" : "3",
+  "question" : "탄자니아",
+  "answer" : "도도마",
+  "country" : "탄자니아.png",
+  "capital" : "벤자민 음카파 스타디움.png"
+}, {
+  "num" : "4",
+  "question" : "모로코",
+  "answer" : "라바트",
+  "country" : "모로코.png",
+  "capital" : "하산 탑.png"
+}, {
+  "num" : "5",
+  "question" : "앙골라",
+  "answer" : "루안다",
+  "country" : "앙골라.png",
+  "capital" : "아고스티뉴 네토 기념관.png"
+}, {
+  "num" : "6",
+  "question" : "슬로베니아",
+  "answer" : "류블랴나",
+  "country" : "슬로베니아.png",
+  "capital" : "류블라냐 성.png"
+}, {
+  "num" : "7",
+  "question" : "페루",
+  "answer" : "리마",
+  "country" : "페루.png",
+  "capital" : "아르마스 광장.png"
+}, {
+  "num" : "8",
+  "question" : "바레인",
+  "answer" : "마나마",
+  "country" : "바레인.png",
+  "capital" : "바레인 세계무역센터.png"
+}, {
+  "num" : "9",
+  "question" : "벨라루스",
+  "answer" : "민스크",
+  "country" : "벨라루스.png",
+  "capital" : "민스크 독립 광장.png"
+}, {
+  "num" : "10",
+  "question" : "말리",
+  "answer" : "바마코",
+  "country" : "말리.png",
+  "capital" : "니제르 강 다리.png"
+}, {
+  "num" : "11",
+  "question" : "아제르바이잔",
+  "answer" : "바쿠",
+  "country" : "아제르바이잔.png",
+  "capital" : "플레임 타워.png"
+}, {
+  "num" : "12",
+  "question" : "세르비아",
+  "answer" : "베오그라드",
+  "country" : "세르비아.png",
+  "capital" : "칼레메그단 요새.png"
+}, {
+  "num" : "13",
+  "question" : "벨리즈",
+  "answer" : "벨모판",
+  "country" : "벨리즈.png",
+  "capital" : "블루 홀 국립공원.png"
+}, {
+  "num" : "14",
+  "question" : "슬로바키아",
+  "answer" : "브라티슬라바",
+  "country" : "슬로바키아.png",
+  "capital" : "브라티슬라바 성.png"
+}, {
+  "num" : "15",
+  "question" : "라오스",
+  "answer" : "비엔티안",
+  "country" : "라오스.png",
+  "capital" : "빠뚜싸이.png"
+}, {
+  "num" : "16",
+  "question" : "리투아니아",
+  "answer" : "빌뉴스",
+  "country" : "리투아니아.png",
+  "capital" : "게디미나스 성.png"
+}, {
+  "num" : "17",
+  "question" : "도미니카공화국",
+  "answer" : "산토도밍고",
+  "country" : "도미니카공화국.png",
+  "capital" : "콜럼버스 등대.png"
+}, {
+  "num" : "18",
+  "question" : "코스타리카",
+  "answer" : "산호세",
+  "country" : "코스타리카.png",
+  "capital" : "코스타리카 국립극장.png"
+}, {
+  "num" : "19",
+  "question" : "불가리아",
+  "answer" : "소피아",
+  "country" : "불가리아.png",
+  "capital" : "성 알렉산더 네프스키 대성당.png"
+}, {
+  "num" : "20",
+  "question" : "북마케도니아",
+  "answer" : "스코페",
+  "country" : "북마케도니아.png",
+  "capital" : "마케도니아 광장.png"
+}, {
+  "num" : "21",
+  "question" : "에티오피아",
+  "answer" : "아디스아바바",
+  "country" : "에티오피아.png",
+  "capital" : "아프리카 연합 본부.png"
+}, {
+  "num" : "22",
+  "question" : "나이지리아",
+  "answer" : "아부자",
+  "country" : "나이지리아.png",
+  "capital" : "나이지리아 국립 모스크.png"
+}, {
+  "num" : "23",
+  "question" : "파라과이",
+  "answer" : "아순시온",
+  "country" : "파라과이.png",
+  "capital" : "아순시온 대통령궁.png"
+}, {
+  "num" : "24",
+  "question" : "에리트레아",
+  "answer" : "아스마라",
+  "country" : "에리트레아.png",
+  "capital" : "피아차.png"
+}, {
+  "num" : "25",
+  "question" : "가나",
+  "answer" : "아크라",
+  "country" : "가나.png",
+  "capital" : "아크라 독립 광장.png"
+}, {
+  "num" : "26",
+  "question" : "마다가스카르",
+  "answer" : "안타나나리보",
+  "country" : "마다가스카르.png",
+  "capital" : "안타나나리보 로바.png"
+}, {
+  "num" : "27",
+  "question" : "뉴질랜드",
+  "answer" : "웰링턴",
+  "country" : "뉴질랜드.png",
+  "capital" : "뉴질랜드 국회의사당.png"
+}, {
+  "num" : "28",
+  "question" : "에콰도르",
+  "answer" : "키토",
+  "country" : "에콰도르.png",
+  "capital" : "엘 파네시요.png"
+}, {
+  "num" : "29",
+  "question" : "콩고민주공화국",
+  "answer" : "킨샤사",
+  "country" : "콩고민주공화국.png",
+  "capital" : "곰베.png"
+}, {
+  "num" : "30",
+  "question" : "튀니지",
+  "answer" : "튀니스",
+  "country" : "튀니지.png",
+  "capital" : "자이투나 모스크.png"
+}, {
+  "num" : "31",
+  "question" : "조지아",
+  "answer" : "트빌리시",
+  "country" : "조지아.png",
+  "capital" : "나리칼라 요새.png"
+}, {
+  "num" : "32",
+  "question" : "몬테네그로",
+  "answer" : "포드고리차",
+  "country" : "몬테네그로.png",
+  "capital" : "밀레니엄 브리지.png"
+}, {
+  "num" : "33",
+  "question" : "수단",
+  "answer" : "하르툼",
+  "country" : "수단.png",
+  "capital" : "하르툼 대성당.png"
+} ]

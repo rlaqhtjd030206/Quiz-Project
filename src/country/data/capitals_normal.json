@@ -1,0 +1,199 @@
+[ {
+  "num" : "0",
+  "question" : "과테말라",
+  "answer" : "과테말라시티",
+  "country" : "과테말라.png",
+  "capital" : "카테드랄 메트로폴리타나.png"
+}, {
+  "num" : "1",
+  "question" : "케냐",
+  "answer" : "나이로비",
+  "country" : "케냐.png",
+  "capital" : "나이로비 국립공원.png"
+}, {
+  "num" : "2",
+  "question" : "니코시아",
+  "answer" : "키프로스",
+  "country" : "키프로스.png",
+  "capital" : "레드라 스트리트 크로싱.png"
+}, {
+  "num" : "3",
+  "question" : "방글라데시",
+  "answer" : "다카",
+  "country" : "방글라데시.png",
+  "capital" : "랄박 포트.png"
+}, {
+  "num" : "4",
+  "question" : "카타르",
+  "answer" : "도하",
+  "country" : "카타르.png",
+  "capital" : "이슬람 예술 박물관.png"
+}, {
+  "num" : "5",
+  "question" : "룩셈부르크",
+  "answer" : "룩셈부르크",
+  "country" : "룩셈부르크.png",
+  "capital" : "보크 포대.png"
+}, {
+  "num" : "6",
+  "question" : "포르투갈",
+  "answer" : "리스본",
+  "country" : "포르투갈.png",
+  "capital" : "벨렘 탑.png"
+}, {
+  "num" : "7",
+  "question" : "사우디아라비아",
+  "answer" : "리야드",
+  "country" : "사우디아라비아.png",
+  "capital" : "알 파이살리야 타워.png"
+}, {
+  "num" : "8",
+  "question" : "이라크",
+  "answer" : "바그다드",
+  "country" : "이라크.png",
+  "capital" : "무타나비 거리.png"
+}, {
+  "num" : "9",
+  "question" : "폴란드",
+  "answer" : "바르샤바",
+  "country" : "폴란드.png",
+  "capital" : "문화과학궁전.png"
+}, {
+  "num" : "10",
+  "question" : "스위스",
+  "answer" : "베른",
+  "country" : "스위스.png",
+  "capital" : "치트글로게.png"
+}, {
+  "num" : "11",
+  "question" : "레바논",
+  "answer" : "베이루트",
+  "country" : "레바논.png",
+  "capital" : "모하메드 알 아민 모스크.png"
+}, {
+  "num" : "12",
+  "question" : "콜롬비아",
+  "answer" : "보고타",
+  "country" : "콜롬비아.png",
+  "capital" : "몬세라테 언덕.png"
+}, {
+  "num" : "13",
+  "question" : "루마니아",
+  "answer" : "부쿠레슈티",
+  "country" : "루마니아.png",
+  "capital" : "국회의사당 궁전.png"
+}, {
+  "num" : "14",
+  "question" : "벨기에",
+  "answer" : "브뤼셀",
+  "country" : "벨기에.png",
+  "capital" : "그랑 플라스.png"
+}, {
+  "num" : "15",
+  "question" : "칠레",
+  "answer" : "산티아고",
+  "country" : "칠레.png",
+  "capital" : "산 크리스토발 언덕.png"
+}, {
+  "num" : "16",
+  "question" : "볼리비아",
+  "answer" : "수크레",
+  "country" : "볼리비아.png",
+  "capital" : "5월 25일 광장.png"
+}, {
+  "num" : "17",
+  "question" : "스리랑카",
+  "answer" : "스리 자야와르데네푸라 코테",
+  "country" : "스리랑카.png",
+  "capital" : "강가라마야 사원.png"
+}, {
+  "num" : "18",
+  "question" : "쿠바",
+  "answer" : "아바나",
+  "country" : "쿠바.png",
+  "capital" : "엘 카피톨리오.png"
+}, {
+  "num" : "19",
+  "question" : "아랍에미리트",
+  "answer" : "아부다비",
+  "country" : "아랍에미리트.png",
+  "capital" : "셰이크 자이드 그랜드 모스크.png"
+}, {
+  "num" : "20",
+  "question" : "카자흐스탄",
+  "answer" : "아스타나",
+  "country" : "카자흐스탄.png",
+  "capital" : "바이테렉 타워.png"
+}, {
+  "num" : "21",
+  "question" : "요르단",
+  "answer" : "암만",
+  "country" : "요르단.png",
+  "capital" : "암만 로마 극장.png"
+}, {
+  "num" : "22",
+  "question" : "튀르키예",
+  "answer" : "앙카라",
+  "country" : "튀르키예.png",
+  "capital" : "아타튀르크 묘.png"
+}, {
+  "num" : "23",
+  "question" : "아르메니아",
+  "answer" : "예레반",
+  "country" : "아르메니아.png",
+  "capital" : "케스케이드.jpg"
+}, {
+  "num" : "24",
+  "question" : "노르웨이",
+  "answer" : "오슬로",
+  "country" : "노르웨이.png",
+  "capital" : "오슬로 오페라 하우스.png"
+}, {
+  "num" : "25",
+  "question" : "몽골",
+  "answer" : "울란바토르",
+  "country" : "몽골.png",
+  "capital" : "수흐바타르 광장.png"
+}, {
+  "num" : "26",
+  "question" : "파키스탄",
+  "answer" : "이슬라마바드",
+  "country" : "파키스탄.png",
+  "capital" : "파이살모스크.png"
+}, {
+  "num" : "27",
+  "question" : "네팔",
+  "answer" : "카트만두",
+  "country" : "네팔.png",
+  "capital" : "스와얌부나트 사원.png"
+}, {
+  "num" : "28",
+  "question" : "호주",
+  "answer" : "캔버라",
+  "country" : "호주.png",
+  "capital" : "호주 전쟁 기념관.png"
+}, {
+  "num" : "29",
+  "question" : "우즈베키스탄",
+  "answer" : "타슈켄트",
+  "country" : "우즈베키스탄.png",
+  "capital" : "하즈라티 이맘 모스크.png"
+}, {
+  "num" : "30",
+  "question" : "리비아",
+  "answer" : "트리폴리",
+  "country" : "리비아.png",
+  "capital" : "마르티르 광장.png"
+}, {
+  "num" : "31",
+  "question" : "파나마",
+  "answer" : "파나마시티",
+  "country" : "파나마.png",
+  "capital" : "파나마 운하.png"
+}, {
+  "num" : "32",
+  "question" : "남아프리카공화국",
+  "answer" : "프리토리아",
+  "country" : "남아프리카공화국.png",
+  "capital" : "유니온 빌딩.png"
+} ]

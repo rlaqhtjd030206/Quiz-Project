@@ -1,0 +1,401 @@
+[ {
+  "num" : "0",
+  "question" : "ㅁㄹㅌ",
+  "answer" : "마라톤"
+}, {
+  "num" : "1",
+  "question" : "ㅁㄹㄸㄱ",
+  "answer" : "멀리뛰기"
+}, {
+  "num" : "2",
+  "question" : "ㄴㅇㄸㄱ",
+  "answer" : "높이뛰기"
+}, {
+  "num" : "3",
+  "question" : "ㅈㄷㄴㅇㄸㄱ",
+  "answer" : "장대높이뛰기"
+}, {
+  "num" : "4",
+  "question" : "ㅊㄷㅈㄱ",
+  "answer" : "창던지기"
+}, {
+  "num" : "5",
+  "question" : "ㅇㅂㄷㅈㄱ",
+  "answer" : "원반던지기"
+}, {
+  "num" : "6",
+  "question" : "ㅍㅎㄷㅈㄱ",
+  "answer" : "포환던지기"
+}, {
+  "num" : "7",
+  "question" : "ㅊㄱ",
+  "answer" : "축구"
+}, {
+  "num" : "8",
+  "question" : "ㄴㄱ",
+  "answer" : "농구"
+}, {
+  "num" : "9",
+  "question" : "ㅂㄱ",
+  "answer" : "배구"
+}, {
+  "num" : "10",
+  "question" : "ㅎㄷㅂ",
+  "answer" : "핸드볼"
+}, {
+  "num" : "11",
+  "question" : "ㅇㄱ",
+  "answer" : "야구"
+}, {
+  "num" : "12",
+  "question" : "ㅍㄷㅎㅋ",
+  "answer" : "필드하키"
+}, {
+  "num" : "13",
+  "question" : "ㄹㅂ",
+  "answer" : "럭비"
+}, {
+  "num" : "14",
+  "question" : "ㅁㅅㅊㄱ",
+  "answer" : "미식축구"
+}, {
+  "num" : "15",
+  "question" : "ㄷㄱ",
+  "answer" : "당구"
+}, {
+  "num" : "16",
+  "question" : "ㄱㅍ",
+  "answer" : "골프"
+}, {
+  "num" : "17",
+  "question" : "ㅋㄹㅋ",
+  "answer" : "크리켓"
+}, {
+  "num" : "18",
+  "question" : "ㅅㅍㅌㅋㄹ",
+  "answer" : "세팍타크로"
+}, {
+  "num" : "19",
+  "question" : "ㅌㅂ",
+  "answer" : "티볼"
+}, {
+  "num" : "20",
+  "question" : "ㅈㄱ",
+  "answer" : "족구"
+}, {
+  "num" : "21",
+  "question" : "ㄱㅇㅌㅂ",
+  "answer" : "게이트볼"
+}, {
+  "num" : "22",
+  "question" : "ㅅㄱ",
+  "answer" : "수구"
+}, {
+  "num" : "23",
+  "question" : "ㅍㄱ",
+  "answer" : "피구"
+}, {
+  "num" : "24",
+  "question" : "ㅂㄹ",
+  "answer" : "볼링"
+}, {
+  "num" : "25",
+  "question" : "ㅌㄴㅅ",
+  "answer" : "테니스"
+}, {
+  "num" : "26",
+  "question" : "ㅂㄷㅁㅌ",
+  "answer" : "배드민턴"
+}, {
+  "num" : "27",
+  "question" : "ㅅㅋㅅ",
+  "answer" : "스쿼시"
+}, {
+  "num" : "28",
+  "question" : "ㅈㄱ",
+  "answer" : "정구"
+}, {
+  "num" : "29",
+  "question" : "ㅌㄱ",
+  "answer" : "탁구"
+}, {
+  "num" : "30",
+  "question" : "ㅈㅇㅎ",
+  "answer" : "자유형"
+}, {
+  "num" : "31",
+  "question" : "ㅂㅇ",
+  "answer" : "배영"
+}, {
+  "num" : "32",
+  "question" : "ㅍㅇ",
+  "answer" : "평영"
+}, {
+  "num" : "33",
+  "question" : "ㅈㅇ",
+  "answer" : "접영"
+}, {
+  "num" : "34",
+  "question" : "ㄷㅇㅂ",
+  "answer" : "다이빙"
+}, {
+  "num" : "35",
+  "question" : "ㅅㄱ",
+  "answer" : "수구"
+}, {
+  "num" : "36",
+  "question" : "ㅈㅈ",
+  "answer" : "조정"
+}, {
+  "num" : "37",
+  "question" : "ㄱㄱㅊㅈ",
+  "answer" : "기계체조"
+}, {
+  "num" : "38",
+  "question" : "ㅇㄷ",
+  "answer" : "역도"
+}, {
+  "num" : "39",
+  "question" : "ㅌㄱㄷ",
+  "answer" : "태권도"
+}, {
+  "num" : "40",
+  "question" : "ㅌㄱ",
+  "answer" : "택견"
+}, {
+  "num" : "41",
+  "question" : "ㅋㅍ",
+  "answer" : "쿵푸"
+}, {
+  "num" : "42",
+  "question" : "ㅆㄹ",
+  "answer" : "씨름"
+}, {
+  "num" : "43",
+  "question" : "ㄱㄹㅌ",
+  "answer" : "가라테"
+}, {
+  "num" : "44",
+  "question" : "ㅇㄷ",
+  "answer" : "유도"
+}, {
+  "num" : "45",
+  "question" : "ㅂㅅ",
+  "answer" : "복싱"
+}, {
+  "num" : "46",
+  "question" : "ㅋㅂㅅ",
+  "answer" : "킥복싱"
+}, {
+  "num" : "47",
+  "question" : "ㄹㅅㄹ",
+  "answer" : "레슬링"
+}, {
+  "num" : "48",
+  "question" : "ㅍㅆㄹ",
+  "answer" : "팔씨름"
+}, {
+  "num" : "49",
+  "question" : "ㅈㅈㅅ",
+  "answer" : "주짓수"
+}, {
+  "num" : "50",
+  "question" : "ㅍㅅ",
+  "answer" : "펜싱"
+}, {
+  "num" : "51",
+  "question" : "ㅎㄱㄷ",
+  "answer" : "합기도"
+}, {
+  "num" : "52",
+  "question" : "ㅇㄱ",
+  "answer" : "양궁"
+}, {
+  "num" : "53",
+  "question" : "ㅅㅁ",
+  "answer" : "승마"
+}, {
+  "num" : "54",
+  "question" : "ㅅㅍㄷ ㅅㅋㅇㅌ",
+  "answer" : "스피드 스케이팅"
+}, {
+  "num" : "55",
+  "question" : "ㅍㄱ ㅅㅋㅇㅌ",
+  "answer" : "피겨 스케이팅"
+}, {
+  "num" : "56",
+  "question" : "ㅅㅌㅌㄹ",
+  "answer" : "쇼트트랙"
+}, {
+  "num" : "57",
+  "question" : "ㅇㅇㅅㅎㅋ",
+  "answer" : "아이스하키"
+}, {
+  "num" : "58",
+  "question" : "ㅇㅍㅇ ㅅㅋ",
+  "answer" : "알파인 스키"
+}, {
+  "num" : "59",
+  "question" : "ㄴㄹㄷ ㅅㅋ",
+  "answer" : "노르딕 스키"
+}, {
+  "num" : "60",
+  "question" : "ㅍㄹㅅㅌㅇ ㅅㅋ",
+  "answer" : "프리스타일 스키"
+}, {
+  "num" : "61",
+  "question" : "ㅆㅇㅋ",
+  "answer" : "싸이클"
+}, {
+  "num" : "62",
+  "question" : "ㄱㄷ",
+  "answer" : "검도"
+}, {
+  "num" : "63",
+  "question" : "ㄹㄷㅊㅈ",
+  "answer" : "리듬체조"
+}, {
+  "num" : "64",
+  "question" : "ㅅㄱ",
+  "answer" : "사격"
+}, {
+  "num" : "65",
+  "question" : "ㅇㅌ",
+  "answer" : "요트"
+}, {
+  "num" : "66",
+  "question" : "ㅋㄴ",
+  "answer" : "카누"
+}, {
+  "num" : "67",
+  "question" : "ㅌㄹㅇㅇㅅㄹ",
+  "answer" : "트라이애슬론"
+}, {
+  "num" : "68",
+  "question" : "ㅅㅋㅇㅌㅂㄷ",
+  "answer" : "스케이트보드"
+}, {
+  "num" : "69",
+  "question" : "ㅅㅍㅊ ㅋㄹㅇㅁ",
+  "answer" : "스포츠 클라이밍"
+}, {
+  "num" : "70",
+  "question" : "ㅅㅍ",
+  "answer" : "서핑"
+}, {
+  "num" : "71",
+  "question" : "ㄹㅈ",
+  "answer" : "루지"
+}, {
+  "num" : "72",
+  "question" : "ㅂㅇㅇㅅㄹ",
+  "answer" : "바이애슬론"
+}, {
+  "num" : "73",
+  "question" : "ㅂㅅㄹㅇ",
+  "answer" : "봅슬레이"
+}, {
+  "num" : "74",
+  "question" : "ㅅㅋㄹㅌ",
+  "answer" : "스켈레톤"
+}, {
+  "num" : "75",
+  "question" : "ㅋㄹ",
+  "answer" : "컬링"
+}, {
+  "num" : "76",
+  "question" : "ㅍㅅ",
+  "answer" : "풋살"
+}, {
+  "num" : "77",
+  "question" : "ㅂㅇㄱ",
+  "answer" : "발야구"
+}, {
+  "num" : "78",
+  "question" : "ㅅㅁ",
+  "answer" : "스모"
+}, {
+  "num" : "79",
+  "question" : "ㅅㄷㄸㄱ",
+  "answer" : "세단뛰기"
+}, {
+  "num" : "80",
+  "question" : "ㅎㅁㄷㅈㄱ",
+  "answer" : "해머던지기"
+}, {
+  "num" : "81",
+  "question" : "ㅎㄷ",
+  "answer" : "허들"
+}, {
+  "num" : "82",
+  "question" : "ㅅㄴㅂㄷ",
+  "answer" : "스노보드"
+}, {
+  "num" : "83",
+  "question" : "ㅇㅌㅅㅌ ㅅㅇㅁ",
+  "answer" : "아티스틱 스위밍"
+}, {
+  "num" : "84",
+  "question" : "ㅋㄹㅅㅋㅌㄹ ㅅㅋ",
+  "answer" : "크로스컨트리 스키"
+}, {
+  "num" : "85",
+  "question" : "ㅅㅋㅈㅍ",
+  "answer" : "스키점프"
+}, {
+  "num" : "86",
+  "question" : "ㄱㅁ",
+  "answer" : "경마"
+}, {
+  "num" : "87",
+  "question" : "ㄷㅌ",
+  "answer" : "다트"
+}, {
+  "num" : "88",
+  "question" : "ㅍㅋㅂ",
+  "answer" : "포켓볼"
+}, {
+  "num" : "89",
+  "question" : "ㅂㅊㅂㄹㅂ",
+  "answer" : "비치발리볼"
+}, {
+  "num" : "90",
+  "question" : "ㅅㅍㅌㅂ",
+  "answer" : "소프트볼"
+}, {
+  "num" : "91",
+  "question" : "ㄷㄹㄱ",
+  "answer" : "달리기"
+}, {
+  "num" : "92",
+  "question" : "ㄱㅈ",
+  "answer" : "계주"
+}, {
+  "num" : "93",
+  "question" : "ㅈㅎㄱㅌㄱ",
+  "answer" : "종합격투기"
+}, {
+  "num" : "94",
+  "question" : "ㅁㅇㅌㅇ",
+  "answer" : "무에타이"
+}, {
+  "num" : "95",
+  "question" : "ㅋㅍㅇㄹ",
+  "answer" : "카포에라"
+}, {
+  "num" : "96",
+  "question" : "ㅈㄴㄱ",
+  "answer" : "줄넘기"
+}, {
+  "num" : "97",
+  "question" : "ㅋㅂㄷ",
+  "answer" : "카바디"
+}, {
+  "num" : "98",
+  "question" : "ㅅㅋㅂㄷㅇㅂ",
+  "answer" : "스쿠버다이빙"
+}, {
+  "num" : "99",
+  "question" : "ㅍㄹㄱㄹㅇㄷ",
+  "answer" : "패러글라이딩"
+} ]

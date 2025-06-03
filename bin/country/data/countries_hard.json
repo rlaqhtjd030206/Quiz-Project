@@ -1,0 +1,205 @@
+[ {
+  "num" : "0",
+  "question" : "",
+  "answer" : "가나",
+  "country" : "가나.png",
+  "capital" : null
+}, {
+  "num" : "1",
+  "question" : "",
+  "answer" : "과테말라",
+  "country" : "과테말라.png",
+  "capital" : null
+}, {
+  "num" : "2",
+  "question" : "",
+  "answer" : "네팔",
+  "country" : "네팔.png",
+  "capital" : null
+}, {
+  "num" : "3",
+  "question" : "",
+  "answer" : "도미니카공화국",
+  "country" : "도미니카공화국.png",
+  "capital" : null
+}, {
+  "num" : "4",
+  "question" : "",
+  "answer" : "라오스",
+  "country" : "라오스.png",
+  "capital" : null
+}, {
+  "num" : "5",
+  "question" : "",
+  "answer" : "레바논",
+  "country" : "레바논.png",
+  "capital" : null
+}, {
+  "num" : "6",
+  "question" : "",
+  "answer" : "룩셈부르크",
+  "country" : "룩셈부르크.png",
+  "capital" : null
+}, {
+  "num" : "7",
+  "question" : "",
+  "answer" : "리비아",
+  "country" : "리비아.png",
+  "capital" : null
+}, {
+  "num" : "8",
+  "question" : "",
+  "answer" : "리투아니아",
+  "country" : "리투아니아.png",
+  "capital" : null
+}, {
+  "num" : "9",
+  "question" : "",
+  "answer" : "마다가스카르",
+  "country" : "마다가스카르.png",
+  "capital" : null
+}, {
+  "num" : "10",
+  "question" : "",
+  "answer" : "말리",
+  "country" : "말리.png",
+  "capital" : null
+}, {
+  "num" : "11",
+  "question" : "",
+  "answer" : "몬테네그로",
+  "country" : "몬테네그로.png",
+  "capital" : null
+}, {
+  "num" : "12",
+  "question" : "",
+  "answer" : "몽골",
+  "country" : "몽골.png",
+  "capital" : null
+}, {
+  "num" : "13",
+  "question" : "",
+  "answer" : "미얀마",
+  "country" : "미얀마.png",
+  "capital" : null
+}, {
+  "num" : "14",
+  "question" : "",
+  "answer" : "벨라루스",
+  "country" : "벨라루스.png",
+  "capital" : null
+}, {
+  "num" : "15",
+  "question" : "",
+  "answer" : "벨리즈",
+  "country" : "벨리즈.png",
+  "capital" : null
+}, {
+  "num" : "16",
+  "question" : "",
+  "answer" : "북마케도니아",
+  "country" : "북마케도니아.png",
+  "capital" : null
+}, {
+  "num" : "17",
+  "question" : "",
+  "answer" : "불가리아",
+  "country" : "불가리아.png",
+  "capital" : null
+}, {
+  "num" : "18",
+  "question" : "",
+  "answer" : "세네갈",
+  "country" : "세네갈.png",
+  "capital" : null
+}, {
+  "num" : "19",
+  "question" : "",
+  "answer" : "수단",
+  "country" : "수단.png",
+  "capital" : null
+}, {
+  "num" : "20",
+  "question" : "",
+  "answer" : "스리랑카",
+  "country" : "스리랑카.png",
+  "capital" : null
+}, {
+  "num" : "21",
+  "question" : "",
+  "answer" : "슬로바키아",
+  "country" : "슬로바키아.png",
+  "capital" : null
+}, {
+  "num" : "22",
+  "question" : "",
+  "answer" : "슬로베니아",
+  "country" : "슬로베니아.png",
+  "capital" : null
+}, {
+  "num" : "23",
+  "question" : "",
+  "answer" : "시리아",
+  "country" : "시리아.png",
+  "capital" : null
+}, {
+  "num" : "24",
+  "question" : "",
+  "answer" : "아르메니아",
+  "country" : "아르메니아.png",
+  "capital" : null
+}, {
+  "num" : "25",
+  "question" : "",
+  "answer" : "아제르바이잔",
+  "country" : "아제르바이잔.png",
+  "capital" : null
+}, {
+  "num" : "26",
+  "question" : "",
+  "answer" : "앙골라",
+  "country" : "앙골라.png",
+  "capital" : null
+}, {
+  "num" : "27",
+  "question" : "",
+  "answer" : "에리트레아",
+  "country" : "에리트레아.png",
+  "capital" : null
+}, {
+  "num" : "28",
+  "question" : "",
+  "answer" : "에티오피아",
+  "country" : "에티오피아.png",
+  "capital" : null
+}, {
+  "num" : "29",
+  "question" : "",
+  "answer" : "우즈베키스탄",
+  "country" : "우즈베키스탄.png",
+  "capital" : null
+}, {
+  "num" : "30",
+  "question" : "",
+  "answer" : "카타르",
+  "country" : "카타르.png",
+  "capital" : null
+}, {
+  "num" : "31",
+  "question" : "",
+  "answer" : "콩고민주공화국",
+  "country" : "콩고민주공화국.png",
+  "capital" : null
+}, {
+  "num" : "32",
+  "question" : "",
+  "answer" : "탄자니아",
+  "country" : "탄자니아.png",
+  "capital" : null
+}, {
+  "num" : "33",
+  "question" : "",
+  "answer" : "파나마",
+  "country" : "파나마.png",
+  "capital" : null
+} ]
